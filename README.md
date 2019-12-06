@@ -3,8 +3,11 @@ The DCGAN and WGAN have been implemented by Tensorflow 2.0 and tested on MINIST,
 
 # Neural Network Architecture
 DISCRIMINATOR
+
 ![image](https://github.com/Iwtbm/ML_WGAN_DCGAN/blob/master/image/DISCRIMINATOR_PNG.png)
+
 GENERATOR
+
 ![image](https://github.com/Iwtbm/ML_WGAN_DCGAN/blob/master/image/GENERATOR_PNG.png)
 
 # Reference
